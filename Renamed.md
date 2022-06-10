@@ -11,3 +11,5 @@ We are practicing Git, the weather is nice
 It is Friday
 
 Additional Changes
+
+Froofy
